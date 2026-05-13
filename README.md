@@ -4,3 +4,4 @@
 2) Запустить тестовый сервер
 3) Открыть http://localhost:3000/health
 4) Test
+5) Test 6
